@@ -74,15 +74,6 @@ A responsive e-commerce application built using **React** and **Redux**, featuri
 
 - Uses Redux to manage filtered product state.
 
-Example:
-
-```jsx
-const filteredProducts = allProducts.filter(
-  (product) => product.category === selectedCategory
-);
-
-```
-
 ### 🧠 Redux State Management
 
 - Global state includes:
